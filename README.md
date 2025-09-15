@@ -68,9 +68,7 @@ Results plotted with 95% confidence intervals
 ### Results
 - Housing prices in Germany rose steadily from 2010 to 2024  
 - Our ARIMA model predicts continued growth for the next 3 years  
-- Forecast uncertainty widens, but trend remains upward  
-
-(*Example plot goes here – you can embed `forecast.png`*)  
+- Forecast uncertainty widens, but trend remains upward    
 
 ---
 
