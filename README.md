@@ -1,4 +1,4 @@
-# The German Housing Market: Where Are Prices Heading?
+# The German Housing Market: 14 Years of Data and Where Prices are Heading
 
 **Analysis and Forecast of Owner-Occupied Housing Price Indices (2010–2024)**  
 *Data Science Group 7 – TechLabs Hamburg*
